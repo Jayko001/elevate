@@ -1,0 +1,4 @@
+1. connect the mood detector and song reccomendation program so that the songs are reccomended according to the detected mood.
+2. expand the songs database.
+3. implement reinforcement learning to the song reccomendation algorithm so that its reccomendations improve over time.
+4. implement NLP in song reccomendation program so that songs with curse words/depressing lyrics are not reccomended.
